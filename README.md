@@ -12,4 +12,11 @@ I like developing mobile games, bots, packages or all kinds of stuff my friends 
 
 🈲 Languages: English, Turkish, Japanese
 
-Check my repos below!
+<a href="https://github.com/CidQu">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CidQu&show_icons=true&locale=en&layout=compact" alt="CidQu" />
+</a>  
+<br>  
+<br>  
+<a href="https://github.com/CidQu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CidQu&show_icons=true&locale=en" alt="CidQu" />
+</a>
