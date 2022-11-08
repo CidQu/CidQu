@@ -13,6 +13,11 @@ I like developing mobile games, bots, packages or all kinds of stuff my friends 
 🈲 Languages: English, Turkish, Japanese
 
 <a href="https://github.com/CidQu">
+    <img src="https://komarev.com/ghpvc/?username=CidQu&label=Profile%20views&color=0e75b6&style=flat" alt="CidQu" />
+</a>
+<br>  
+<br>
+<a href="https://github.com/CidQu">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CidQu&show_icons=true&locale=en&layout=compact" alt="CidQu" />
 </a>  
 <br>  
