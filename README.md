@@ -10,7 +10,7 @@ I like developing mobile games, bots, packages, or all kinds of stuff my friends
 
 💾 Love Playing Games.
 
-🈲 Languages: English, Turkish, Japanese, and maybe Dutch in the future
+🈲 Languages: English, Turkish, and maybe Russian/Dutch in the future
 
 <a href="https://github.com/CidQu">
     <img src="https://komarev.com/ghpvc/?username=CidQu&label=Profile%20views&color=0e75b6&style=flat" alt="CidQu" />
