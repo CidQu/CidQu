@@ -1,0 +1,58 @@
+name: Generate GitHub Stats
+
+on:
+  # Run daily at 00:00 UTC
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # Run on push to main/master
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'generate_stats.py'
+      - '.github/workflows/generate-stats.yml'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Statistics
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Generate statistics
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GITHUB_USERNAME: CidQu
+        EXCLUDE_REPOS: ""  # Add comma-separated repo names to exclude
+      run: |
+        python generate_stats.py
+    
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain assets/)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add assets/
+        git commit -m "📊 Update GitHub statistics [$(date -u +%Y-%m-%d)]"
+        git push

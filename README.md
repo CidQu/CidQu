@@ -1,27 +1,58 @@
-### CidQu
+<!-- Custom GitHub Profile README - Generated with private repo support -->
+<!-- Last updated: Auto-generated daily via GitHub Actions -->
 
-My name is Yavuz, currently at Radboud University Computer Science, born in 2005.
+<div align="center">
 
-I like developing mobile games, bots, packages, or all kinds of stuff my friends ask me to do.
+# Hi, I'm Yavuz
 
-🌊 Huge fan of The Great Wave
+**Computer Science Student @ Radboud University | Born 2005**
 
-🧟 Currently Working at: Math, Science, you know school stuff.
+🌊 *Huge fan of The Great Wave* 🌊
 
-💾 Love Playing Games.
+[![Profile Views](https://komarev.com/ghpvc/?username=CidQu&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/CidQu)
+[![GitHub followers](https://img.shields.io/github/followers/CidQu?label=Followers&style=flat&color=0e75b6)](https://github.com/CidQu)
+[![GitHub stars](https://img.shields.io/github/stars/CidQu?label=Stars&style=flat&color=0e75b6)](https://github.com/CidQu)
 
-🈲 Languages: English, Turkish, and maybe Russian/Dutch in the future
+</div>
 
-<a href="https://github.com/CidQu">
-    <img src="https://komarev.com/ghpvc/?username=CidQu&label=Profile%20views&color=0e75b6&style=flat" alt="CidQu" />
-</a>
-<br>  
+---
+
+## About Me
+
+- Currently studying **Computer Science** at **Radboud University**
+- Love developing **mobile games**, **bots**, and **packages**
+- Always building stuff my friends ask for
+- Learning: Math, Science, and everything school throws at me
+- Gaming enthusiast in my free time (I have more in my Steam Account than I have in my bank account)
+- Languages: English, Turkish (learning Russian & Dutch)
+
+---
+
+<div align="center">
+
+<!-- Main stats cards -->
+<table>
+  <tr>
+    <td>
+      <img src="assets/stats.svg" alt="GitHub Statistics" />
+    </td>
+    <td>
+      <img src="assets/languages.svg" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
 <br>
-<a href="https://github.com/CidQu">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CidQu&show_icons=true&locale=en&layout=compact" alt="CidQu" />
-</a>  
-<br>  
-<br>  
-<a href="https://github.com/CidQu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CidQu&show_icons=true&locale=en" alt="CidQu" />
-</a>
+
+<!-- Activity graph -->
+<img src="assets/activity.svg" alt="Contribution Activity" />
+
+<br>
+
+<img src="assets/private-indicator.svg" alt="Private repos included" />
+
+</div>
+
+---
+
+Stats are generated daily via GitHub Actions, so don't expect it to generate immediately after you follow me.

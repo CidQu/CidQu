@@ -1,0 +1,7 @@
+{
+  "generated_at": "2026-02-01T20:00:00+00:00",
+  "username": "CidQu",
+  "note": "This file will be updated when the GitHub Actions workflow runs",
+  "setup_required": true,
+  "instructions": "Add GH_TOKEN secret and run the workflow to generate real statistics"
+}

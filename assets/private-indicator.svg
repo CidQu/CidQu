@@ -1,0 +1,51 @@
+<svg width="400" height="80" xmlns="http://www.w3.org/2000/svg">
+
+    <style>
+        :root {
+            --bg: #ffffff;
+            --card-bg: #ffffff;
+            --border: #e4e2e2;
+            --text-title: #24292f;
+            --text-body: #57606a;
+            --text-value: #24292f;
+            --bar-bg: #ebecf0;
+            --accent: #0969da;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #0d1117;
+                --card-bg: #0d1117;
+                --border: #30363d;
+                --text-title: #c9d1d9;
+                --text-body: #8b949e;
+                --text-value: #c9d1d9;
+                --bar-bg: #21262d;
+                --accent: #58a6ff;
+            }
+        }
+        * { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+        .card { fill: var(--card-bg); stroke: var(--border); stroke-width: 1px; }
+        .title { fill: var(--text-title); font-size: 16px; font-weight: 600; }
+        .stat-label { fill: var(--text-body); font-size: 12px; font-weight: 500; }
+        .stat-value { fill: var(--text-value); font-size: 20px; font-weight: 700; }
+        .lang-name { fill: var(--text-body); font-size: 12px; font-weight: 600; }
+        .lang-pct { fill: var(--text-value); font-size: 12px; font-weight: 600; text-anchor: end; }
+        .anim-target { opacity: 0; animation: slideIn 0.8s ease-out forwards; }
+        .delay-1 { animation-delay: 0.1s; }
+        .delay-2 { animation-delay: 0.2s; }
+        .delay-3 { animation-delay: 0.3s; }
+        .delay-4 { animation-delay: 0.4s; }
+        .delay-5 { animation-delay: 0.5s; }
+        
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+    
+<rect class="card" x="0.5" y="0.5" width="399" height="79" rx="12"/>
+<g class="anim-target delay-1">
+<text x="25" y="35" fill="var(--text-title)" font-family="sans-serif" font-size="14" font-weight="600">🔒 Private Repositories Included</text>
+<text x="25" y="55" fill="var(--text-body)" font-family="sans-serif" font-size="12">These stats represent absolutely all my work.</text>
+</g>
+</svg>
