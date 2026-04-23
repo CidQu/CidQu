@@ -161,6 +161,10 @@
 <animate attributeName="height" values="0;25.0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
 <rect x="721.1538461538462" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="721.1538461538462" y="22.5" width="20.19230769230769" height="32.5" fill="var(--accent)" opacity="0.6727272727272728" rx="2">
+<animate attributeName="y" values="55;22.5" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+<animate attributeName="height" values="0;32.5" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</rect>
 </g>
 </g>
 </svg>
