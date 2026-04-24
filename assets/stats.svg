@@ -47,8 +47,8 @@
 <text class="title anim-target delay-1" x="25" y="35">📊 GitHub Statistics</text>
 <g class="anim-target delay-2">
 <text class="stat-label" x="25" y="65">Total Repositories</text>
-<text class="stat-value" x="25" y="89">38</text>
-<text class="stat-label" x="25" y="107" font-size="10">🔓 19 public · 🔒 19 private</text>
+<text class="stat-value" x="25" y="89">39</text>
+<text class="stat-label" x="25" y="107" font-size="10">🔓 19 public · 🔒 20 private</text>
 </g>
 <g class="anim-target delay-3">
 <text class="stat-label" x="205" y="65">Total Stars</text>
@@ -56,7 +56,7 @@
 </g>
 <g class="anim-target delay-3">
 <text class="stat-label" x="25" y="150">Contributions (1y)</text>
-<text class="stat-value" x="25" y="174">🔥 302</text>
+<text class="stat-value" x="25" y="174">🔥 307</text>
 </g>
 <g class="anim-target delay-4">
 <text class="stat-label" x="205" y="150">Total Forks</text>
