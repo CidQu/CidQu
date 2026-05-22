@@ -165,9 +165,9 @@
 <animate attributeName="height" values="0;55.0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
 <rect x="721.1538461538462" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="721.1538461538462" y="52.755102040816325" width="20.19230769230769" height="2.2448979591836733" fill="var(--accent)" opacity="0.2326530612244898" rx="2">
-<animate attributeName="y" values="55;52.755102040816325" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
-<animate attributeName="height" values="0;2.2448979591836733" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+<rect x="721.1538461538462" y="50.51020408163265" width="20.19230769230769" height="4.489795918367347" fill="var(--accent)" opacity="0.2653061224489796" rx="2">
+<animate attributeName="y" values="55;50.51020408163265" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+<animate attributeName="height" values="0;4.489795918367347" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
 </g>
 </g>
