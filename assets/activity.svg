@@ -48,9 +48,9 @@
 <g transform="translate(25, 60)">
 <g class="anim-target delay-2">
 <rect x="0.0" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="0.0" y="44.0" width="20.19230769230769" height="11.0" fill="var(--accent)" opacity="0.36000000000000004" rx="2">
-<animate attributeName="y" values="55;44.0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
-<animate attributeName="height" values="0;11.0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+<rect x="0.0" y="52.8" width="20.19230769230769" height="2.2" fill="var(--accent)" opacity="0.232" rx="2">
+<animate attributeName="y" values="55;52.8" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+<animate attributeName="height" values="0;2.2" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
 <rect x="28.846153846153847" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
 <rect x="28.846153846153847" y="52.8" width="20.19230769230769" height="2.2" fill="var(--accent)" opacity="0.232" rx="2">
@@ -58,120 +58,120 @@
 <animate attributeName="height" values="0;2.2" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
 <rect x="57.69230769230769" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="57.69230769230769" y="52.8" width="20.19230769230769" height="2.2" fill="var(--accent)" opacity="0.232" rx="2">
-<animate attributeName="y" values="55;52.8" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
-<animate attributeName="height" values="0;2.2" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
-</rect>
-<rect x="86.53846153846155" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="86.53846153846155" y="51.7" width="20.19230769230769" height="3.3" fill="var(--accent)" opacity="0.248" rx="2">
+<rect x="57.69230769230769" y="51.7" width="20.19230769230769" height="3.3" fill="var(--accent)" opacity="0.248" rx="2">
 <animate attributeName="y" values="55;51.7" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;3.3" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="115.38461538461539" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="115.38461538461539" y="45.1" width="20.19230769230769" height="9.9" fill="var(--accent)" opacity="0.344" rx="2">
+<rect x="86.53846153846155" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="86.53846153846155" y="45.1" width="20.19230769230769" height="9.9" fill="var(--accent)" opacity="0.344" rx="2">
 <animate attributeName="y" values="55;45.1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;9.9" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="144.23076923076923" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="144.23076923076923" y="52.8" width="20.19230769230769" height="2.2" fill="var(--accent)" opacity="0.232" rx="2">
+<rect x="115.38461538461539" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="115.38461538461539" y="52.8" width="20.19230769230769" height="2.2" fill="var(--accent)" opacity="0.232" rx="2">
 <animate attributeName="y" values="55;52.8" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;2.2" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="173.0769230769231" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="173.0769230769231" y="50.6" width="20.19230769230769" height="4.4" fill="var(--accent)" opacity="0.264" rx="2">
+<rect x="144.23076923076923" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="144.23076923076923" y="50.6" width="20.19230769230769" height="4.4" fill="var(--accent)" opacity="0.264" rx="2">
 <animate attributeName="y" values="55;50.6" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;4.4" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="201.92307692307693" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="201.92307692307693" y="52.8" width="20.19230769230769" height="2.2" fill="var(--accent)" opacity="0.232" rx="2">
+<rect x="173.0769230769231" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="173.0769230769231" y="52.8" width="20.19230769230769" height="2.2" fill="var(--accent)" opacity="0.232" rx="2">
 <animate attributeName="y" values="55;52.8" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;2.2" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="230.76923076923077" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="230.76923076923077" y="34.1" width="20.19230769230769" height="20.9" fill="var(--accent)" opacity="0.504" rx="2">
+<rect x="201.92307692307693" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="201.92307692307693" y="34.1" width="20.19230769230769" height="20.9" fill="var(--accent)" opacity="0.504" rx="2">
 <animate attributeName="y" values="55;34.1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;20.9" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="259.61538461538464" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="259.61538461538464" y="31.900000000000002" width="20.19230769230769" height="23.099999999999998" fill="var(--accent)" opacity="0.536" rx="2">
+<rect x="230.76923076923077" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="230.76923076923077" y="31.900000000000002" width="20.19230769230769" height="23.099999999999998" fill="var(--accent)" opacity="0.536" rx="2">
 <animate attributeName="y" values="55;31.900000000000002" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;23.099999999999998" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="288.46153846153845" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="288.46153846153845" y="47.3" width="20.19230769230769" height="7.700000000000001" fill="var(--accent)" opacity="0.31200000000000006" rx="2">
+<rect x="259.61538461538464" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="259.61538461538464" y="47.3" width="20.19230769230769" height="7.700000000000001" fill="var(--accent)" opacity="0.31200000000000006" rx="2">
 <animate attributeName="y" values="55;47.3" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;7.700000000000001" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="317.3076923076923" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="317.3076923076923" y="46.2" width="20.19230769230769" height="8.8" fill="var(--accent)" opacity="0.328" rx="2">
+<rect x="288.46153846153845" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="288.46153846153845" y="46.2" width="20.19230769230769" height="8.8" fill="var(--accent)" opacity="0.328" rx="2">
 <animate attributeName="y" values="55;46.2" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;8.8" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="346.1538461538462" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="346.1538461538462" y="30.8" width="20.19230769230769" height="24.2" fill="var(--accent)" opacity="0.552" rx="2">
+<rect x="317.3076923076923" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="317.3076923076923" y="30.8" width="20.19230769230769" height="24.2" fill="var(--accent)" opacity="0.552" rx="2">
 <animate attributeName="y" values="55;30.8" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;24.2" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="375.0" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="375.0" y="36.3" width="20.19230769230769" height="18.700000000000003" fill="var(--accent)" opacity="0.47200000000000003" rx="2">
+<rect x="346.1538461538462" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="346.1538461538462" y="36.3" width="20.19230769230769" height="18.700000000000003" fill="var(--accent)" opacity="0.47200000000000003" rx="2">
 <animate attributeName="y" values="55;36.3" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;18.700000000000003" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="403.84615384615387" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="403.84615384615387" y="47.3" width="20.19230769230769" height="7.700000000000001" fill="var(--accent)" opacity="0.31200000000000006" rx="2">
+<rect x="375.0" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="375.0" y="47.3" width="20.19230769230769" height="7.700000000000001" fill="var(--accent)" opacity="0.31200000000000006" rx="2">
 <animate attributeName="y" values="55;47.3" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;7.700000000000001" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="432.6923076923077" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="432.6923076923077" y="53.9" width="20.19230769230769" height="1.1" fill="var(--accent)" opacity="0.21600000000000003" rx="2">
+<rect x="403.84615384615387" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="403.84615384615387" y="53.9" width="20.19230769230769" height="1.1" fill="var(--accent)" opacity="0.21600000000000003" rx="2">
 <animate attributeName="y" values="55;53.9" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;1.1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="461.53846153846155" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="461.53846153846155" y="51.7" width="20.19230769230769" height="3.3" fill="var(--accent)" opacity="0.248" rx="2">
+<rect x="432.6923076923077" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="432.6923076923077" y="51.7" width="20.19230769230769" height="3.3" fill="var(--accent)" opacity="0.248" rx="2">
 <animate attributeName="y" values="55;51.7" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;3.3" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
+<rect x="461.53846153846155" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
 <rect x="490.3846153846154" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="519.2307692307693" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="519.2307692307693" y="37.4" width="20.19230769230769" height="17.6" fill="var(--accent)" opacity="0.456" rx="2">
+<rect x="490.3846153846154" y="37.4" width="20.19230769230769" height="17.6" fill="var(--accent)" opacity="0.456" rx="2">
 <animate attributeName="y" values="55;37.4" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;17.6" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="548.0769230769231" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="548.0769230769231" y="44.0" width="20.19230769230769" height="11.0" fill="var(--accent)" opacity="0.36000000000000004" rx="2">
+<rect x="519.2307692307693" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="519.2307692307693" y="44.0" width="20.19230769230769" height="11.0" fill="var(--accent)" opacity="0.36000000000000004" rx="2">
 <animate attributeName="y" values="55;44.0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;11.0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="576.9230769230769" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="576.9230769230769" y="35.2" width="20.19230769230769" height="19.8" fill="var(--accent)" opacity="0.488" rx="2">
+<rect x="548.0769230769231" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="548.0769230769231" y="35.2" width="20.19230769230769" height="19.8" fill="var(--accent)" opacity="0.488" rx="2">
 <animate attributeName="y" values="55;35.2" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;19.8" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="605.7692307692308" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="605.7692307692308" y="47.3" width="20.19230769230769" height="7.700000000000001" fill="var(--accent)" opacity="0.31200000000000006" rx="2">
+<rect x="576.9230769230769" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="576.9230769230769" y="47.3" width="20.19230769230769" height="7.700000000000001" fill="var(--accent)" opacity="0.31200000000000006" rx="2">
 <animate attributeName="y" values="55;47.3" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;7.700000000000001" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="634.6153846153846" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="634.6153846153846" y="42.9" width="20.19230769230769" height="12.1" fill="var(--accent)" opacity="0.376" rx="2">
+<rect x="605.7692307692308" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="605.7692307692308" y="42.9" width="20.19230769230769" height="12.1" fill="var(--accent)" opacity="0.376" rx="2">
 <animate attributeName="y" values="55;42.9" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;12.1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="663.4615384615385" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="663.4615384615385" y="0.0" width="20.19230769230769" height="55.0" fill="var(--accent)" opacity="1.0" rx="2">
+<rect x="634.6153846153846" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="634.6153846153846" y="0.0" width="20.19230769230769" height="55.0" fill="var(--accent)" opacity="1.0" rx="2">
 <animate attributeName="y" values="55;0.0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;55.0" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="692.3076923076924" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="692.3076923076924" y="42.9" width="20.19230769230769" height="12.1" fill="var(--accent)" opacity="0.376" rx="2">
+<rect x="663.4615384615385" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="663.4615384615385" y="42.9" width="20.19230769230769" height="12.1" fill="var(--accent)" opacity="0.376" rx="2">
 <animate attributeName="y" values="55;42.9" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;12.1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
-<rect x="721.1538461538462" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
-<rect x="721.1538461538462" y="23.1" width="20.19230769230769" height="31.9" fill="var(--accent)" opacity="0.6639999999999999" rx="2">
+<rect x="692.3076923076924" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="692.3076923076924" y="23.1" width="20.19230769230769" height="31.9" fill="var(--accent)" opacity="0.6639999999999999" rx="2">
 <animate attributeName="y" values="55;23.1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="height" values="0;31.9" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</rect>
+<rect x="721.1538461538462" y="52" width="20.19230769230769" height="3" fill="var(--bar-bg)" rx="1.5"/>
+<rect x="721.1538461538462" y="53.9" width="20.19230769230769" height="1.1" fill="var(--accent)" opacity="0.21600000000000003" rx="2">
+<animate attributeName="y" values="55;53.9" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+<animate attributeName="height" values="0;1.1" dur="0.8s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </rect>
 </g>
 </g>
