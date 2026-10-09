@@ -47,50 +47,50 @@
 <text class="title anim-target delay-1" x="25" y="35">💻 Most Used Languages</text>
 <g class="anim-target delay-2">
 <text class="lang-name" x="25" y="75">Dart</text>
-<text class="lang-pct" x="375" y="75">43.3%</text>
+<text class="lang-pct" x="375" y="75">43.4%</text>
 <line x1="25" y1="87" x2="375" y2="87" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="87" x2="146.28857718775708" y2="87" stroke="#00B4AB" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;146.28857718775708" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="87" x2="146.58382823515436" y2="87" stroke="#00B4AB" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;146.58382823515436" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-3">
 <text class="lang-name" x="25" y="105">PHP</text>
-<text class="lang-pct" x="375" y="105">18.3%</text>
+<text class="lang-pct" x="375" y="105">18.2%</text>
 <line x1="25" y1="117" x2="375" y2="117" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="117" x2="76.1968286535832" y2="117" stroke="#4F5D95" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;76.1968286535832" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="117" x2="76.0442627105575" y2="117" stroke="#4F5D95" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;76.0442627105575" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-4">
 <text class="lang-name" x="25" y="135">Blade</text>
 <text class="lang-pct" x="375" y="135">13.9%</text>
 <line x1="25" y1="147" x2="375" y2="147" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="147" x2="64.01344382473512" y2="147" stroke="#f7523f" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;64.01344382473512" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="147" x2="63.897184224202555" y2="147" stroke="#f7523f" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;63.897184224202555" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-5">
 <text class="lang-name" x="25" y="165">Swift</text>
 <text class="lang-pct" x="375" y="165">12.4%</text>
 <line x1="25" y1="177" x2="375" y2="177" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="177" x2="59.84703618780474" y2="177" stroke="#F05138" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;59.84703618780474" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="177" x2="59.74319243268437" y2="177" stroke="#F05138" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;59.74319243268437" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-6">
 <text class="lang-name" x="25" y="195">TypeScript</text>
 <text class="lang-pct" x="375" y="195">5.6%</text>
 <line x1="25" y1="207" x2="375" y2="207" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="207" x2="40.73326863435733" y2="207" stroke="#3178c6" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;40.73326863435733" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="207" x2="40.686383680167715" y2="207" stroke="#3178c6" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;40.686383680167715" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-7">
 <text class="lang-name" x="25" y="225">Python</text>
-<text class="lang-pct" x="375" y="225">3.6%</text>
+<text class="lang-pct" x="375" y="225">3.5%</text>
 <line x1="25" y1="237" x2="375" y2="237" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="237" x2="34.96910269115971" y2="237" stroke="#3572A5" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;34.96910269115971" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="237" x2="34.939394883211534" y2="237" stroke="#3572A5" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;34.939394883211534" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 </svg>
