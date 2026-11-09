@@ -49,48 +49,48 @@
 <text class="lang-name" x="25" y="75">Dart</text>
 <text class="lang-pct" x="375" y="75">33.9%</text>
 <line x1="25" y1="87" x2="375" y2="87" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="87" x2="119.94499680486369" y2="87" stroke="#00B4AB" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;119.94499680486369" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="87" x2="119.89313898644423" y2="87" stroke="#00B4AB" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;119.89313898644423" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-3">
 <text class="lang-name" x="25" y="105">GDScript</text>
 <text class="lang-pct" x="375" y="105">17.5%</text>
 <line x1="25" y1="117" x2="375" y2="117" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="117" x2="73.95410990762385" y2="117" stroke="#355570" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;73.95410990762385" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="117" x2="74.07954402002176" y2="117" stroke="#355570" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;74.07954402002176" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-4">
 <text class="lang-name" x="25" y="135">PHP</text>
 <text class="lang-pct" x="375" y="135">14.2%</text>
 <line x1="25" y1="147" x2="375" y2="147" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="147" x2="64.80049602697252" y2="147" stroke="#4F5D95" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;64.80049602697252" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="147" x2="64.77875747343701" y2="147" stroke="#4F5D95" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;64.77875747343701" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-5">
 <text class="lang-name" x="25" y="165">Blade</text>
-<text class="lang-pct" x="375" y="165">10.2%</text>
+<text class="lang-pct" x="375" y="165">10.1%</text>
 <line x1="25" y1="177" x2="375" y2="177" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="177" x2="53.426064039479556" y2="177" stroke="#f7523f" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;53.426064039479556" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="177" x2="53.41053806426288" y2="177" stroke="#f7523f" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;53.41053806426288" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-6">
 <text class="lang-name" x="25" y="195">Swift</text>
 <text class="lang-pct" x="375" y="195">9.5%</text>
 <line x1="25" y1="207" x2="375" y2="207" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="207" x2="51.60171718527485" y2="207" stroke="#F05138" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;51.60171718527485" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="207" x2="51.58718764642748" y2="207" stroke="#F05138" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;51.58718764642748" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 <g class="anim-target delay-7">
 <text class="lang-name" x="25" y="225">Python</text>
 <text class="lang-pct" x="375" y="225">5.9%</text>
 <line x1="25" y1="237" x2="375" y2="237" stroke="var(--bar-bg)" stroke-width="8" stroke-linecap="round"/>
-<line x1="25" y1="237" x2="41.517013362169756" y2="237" stroke="#3572A5" stroke-width="8" stroke-linecap="round">
-<animate attributeName="x2" values="25;41.517013362169756" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+<line x1="25" y1="237" x2="41.507991967587714" y2="237" stroke="#3572A5" stroke-width="8" stroke-linecap="round">
+<animate attributeName="x2" values="25;41.507991967587714" dur="0.8s" begin="0.3s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
 </line>
 </g>
 </svg>
